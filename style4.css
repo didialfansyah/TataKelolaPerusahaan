@@ -1,0 +1,26 @@
+h1{
+    color: #003e67;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin-top: 20px;
+    text-align: left;
+}
+
+h2{
+    color: black;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.container{
+    width: 80%;
+    background-color: white;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.content{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 25px;
+    text-align: justify;
+}
